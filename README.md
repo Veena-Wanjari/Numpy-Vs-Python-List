@@ -40,15 +40,14 @@ To substantiate, a small code is written to prove it.
      Its symbol is μs, sometimes simplified to 'us' when Unicode is not available.
      [Microseconds](https://en.wikipedia.org/wiki/Microsecond)
 
-   * A 'millisecond (ms)' (from milli- and second; symbol: ms) is a thousandth (0.001 or 10 <sup> −3 </sup> or 1/1000) of a second.
+   * A '''millisecond (ms)''' (from milli- and second; symbol: ms) is a thousandth (0.001 or 10 <sup> −3 </sup> or 1/1000) of a second.
      [Milliseconds](https://en.wikipedia.org/wiki/Millisecond)
   
 **Order of magnitutde(in terms of speed)**
 
-'''
-nanosecond(ns) > microsecond(us) > millisecond(ms)
-10 <sup> −9 </sup> seconds > 10 <sup> −6 </sup> > 10 <sup> −3 </sup>
+'''nanosecond(ns) > microsecond(us) > millisecond(ms)
 
+   10 <sup> −9 </sup> seconds > 10 <sup> −6 </sup> > 10 <sup> −3 </sup>
 '''
 
 
