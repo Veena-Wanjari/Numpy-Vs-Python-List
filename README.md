@@ -30,17 +30,24 @@ To substantiate, a small code is written to prove it.
 
  3) timeit is pretty simple to use and has a command line interface as well as a callable one.
 
-   * A 'nanosecond (ns)' is an SI unit of time equal to one billionth of a second, that is, ​1⁄1 000 000 000 of a second, or 10<sup>−9 seconds.
+   * A 'nanosecond (ns)' is an SI unit of time equal to one billionth of a second, that is, ​1⁄1 000 000 000 of a second, or 10 <sup> −9 </sup> seconds.
 
      The term combines the prefix nano- with the basic unit for one-sixtieth of a minute.
      [Nanoseconds](https://en.wikipedia.org/wiki/Nanosecond)
   
-   * A 'microsecond (μs)' is an SI unit of time equal to one millionth (0.000001 or 10<sup>−6 or ​1⁄1,000,000) of a second. 
+   * A 'microsecond (μs)' is an SI unit of time equal to one millionth (0.000001 or 10 <sup> −6 </sup>  or ​1⁄1,000,000) of a second. 
     
      Its symbol is μs, sometimes simplified to 'us' when Unicode is not available.
      [Microseconds](https://en.wikipedia.org/wiki/Microsecond)
 
-   * A 'millisecond (ms)' (from milli- and second; symbol: ms) is a thousandth (0.001 or 10<sup>−3 or 1/1000) of a second.
+   * A 'millisecond (ms)' (from milli- and second; symbol: ms) is a thousandth (0.001 or 10 <sup> −3 </sup> or 1/1000) of a second.
      [Milliseconds](https://en.wikipedia.org/wiki/Millisecond)
   
-  
+**Order of magnitutde(in terms of speed)**
+'''
+nanosecond(ns) > microsecond(us) > millisecond(ms)
+10 <sup> −9 </sup> seconds > 10 <sup> −6 </sup> > 10 <sup> −3 </sup>
+
+'''
+
+
