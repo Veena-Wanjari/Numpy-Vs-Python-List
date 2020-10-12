@@ -44,6 +44,7 @@ To substantiate, a small code is written to prove it.
      [Milliseconds](https://en.wikipedia.org/wiki/Millisecond)
   
 **Order of magnitutde(in terms of speed)**
+
 '''
 nanosecond(ns) > microsecond(us) > millisecond(ms)
 10 <sup> −9 </sup> seconds > 10 <sup> −6 </sup> > 10 <sup> −3 </sup>
