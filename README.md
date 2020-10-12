@@ -47,7 +47,7 @@ To substantiate, a small code is written to prove it.
 
   nanosecond(ns) > microsecond(us) > millisecond(ms)
 
-  10 <sup> −9 </sup> seconds > 10 <sup> −6 </sup> > 10 <sup> −3 </sup>
+  10 <sup> −9 </sup> seconds > 10 <sup> −6 </sup> seconds > 10 <sup> −3 </sup> seconds
 
 
 
